@@ -1,0 +1,44 @@
+= music production
+
+Live looping::
+* https://www.youtube.com/watch?v=oSPYUvoNwfY&list=LL&index=208
+* ABLETON LIVE LOOPING TUTORIAL! (Session View)
+shown example with controllers &
+https://www.youtube.com/watch?v=5DpFKLDyCRY&list=WL&index=121
+DAWS, Plugins::
+Zebralet, podolsky, triple cheese,hysterestis, fracture, dexed, native instruments complete start software
+https://www.youtube.com/watch?v=L9sRTxDxIHE&list=WL&index=43
+
+
+Music programming::
+
+Midi samples::
+
+Synthesizers::
+* Koji Kobura top melodies to boost your creativity https://www.youtube.com/watch?v=N3fbS2mkzi8&list=LL&index=209
+
+* *Music Production & Beat Making Process EXPLAINED
+Ableton & arturia keyboard*
+https://www.youtube.com/watch?v=FgFXlGjIbyk&list=WL&index=147
+
+Genres:: https://www.youtube.com/watch?v=aDnJSuWHr7c&list=WL&index=2
+
+
+=== Plugins usage
+
+10 FREE Plugins You Need for Sound Design 🎧
+https://www.youtube.com/watch?v=i9nqxqkk_tc&list=LL&index=11
+
+====
+* TDR nova https://www.youtube.com/redirect?v=i9nqxqkk_tc&event=video_description&redir_token=QUFFLUhqbTlBZWNQaTV0enc1SldmSnAtWENuLUw0aE5DZ3xBQ3Jtc0ttRFVaTkRxNnBqS0w1dlRhS2hleEN1NWMtMXpDdWdvdG1HQW1rWHRLTkc0bHN2TEJVdm1mcUlDVEdYcWdwRU9TVFIwTVVSdTZvZUdydUtDT05TUzZWMnRCM3Y3SE51OXROQ0cxM21vYzRJd2hhS21Zcw%3D%3D&q=https%3A%2F%2Fwww.tokyodawn.net%2Ftdr-nova%2F
+* Paulxstretch https://www.youtube.com/redirect?v=i9nqxqkk_tc&event=video_description&redir_token=QUFFLUhqblRRNi1PZWd1X1BLb3dIcmd4N24xLWZPUGJCQXxBQ3Jtc0trYkhXN2dUUjktaXJWLS00Rnl5TV9Rbk1OSm1WdjJXcjBDZktsRFRsLVM3UjYxRXhNWHBHclJoR1l2SEh1N1Y3R0l5dG54dTZMWXNwb01Qa2dvVk1lN05CN05aSk5RcG5fY3JYY3Uwd2NMUk9wdUNqMA%3D%3D&q=https%3A%2F%2Fxenakios.wordpress.com%2Fpaulxstretch-plugin%2F
+* glitch machines fracture  https://www.youtube.com/redirect?v=i9nqxqkk_tc&event=video_description&redir_token=QUFFLUhqbWJQa3A3UU12LU1hVUQ3U3pkN2NSZVQ2a0ZFZ3xBQ3Jtc0ttYnM4NXNtYjdmQWd6aTBNZkNpYXU3NlFTdGJNMllCRGR5Z3E5U3NqaUFaRjZFcllxRjlUbzd2TG1SdGY0ZzE2QkdxUy16eFdIVml5UDczaU1MT1ZXT0JJcy1POWo5TGJzR1U2RFBfcS1ONzBVcWJCQQ%3D%3D&q=http%3A%2F%2Fwww.glitchmachines.com%2Fdownloads%2Ffracture%2F
+====
+
+
+=== Resources
+
+* Audio Programming for Beginners Tutorial 02- The Sine Wave (Simple Explanation).rehearsal, advanced lelel, fft, VSTs, digital signal processing
+https://www.youtube.com/watch?v=Yk9CRHntoiI&list=LL&index=10&t=303s
+* 10 FREE Plugins You Need for Sound Design 🎧 VSTs
+https://www.youtube.com/watch?v=i9nqxqkk_tc&list=LL&index=11

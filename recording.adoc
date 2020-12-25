@@ -1,0 +1,46 @@
+= Recording guide
+
+== Recording vocal with FL studio
+
+=== Music recording studio
+
+
+The only studio we need::
+https://www.youtube.com/watch?v=nbUBifKC5CI&list=WL&index=118
+
+[.lead]
+For normal people
+
+https://www.youtube.com/watch?v=bBD8iVecA8A&list=WL&index=41
+
+NOTE: ASIO drivers are required usually
+
+IMPORTANT: Don't forget to install FL studio as well if you want to go here
+
+
+* sound isolation
+
+* Distance from mic -
+** 5 - 10 sm, dont too close, or too much low freq, can't be fixed
+
+** not too far, or we loose all the content
+
+
+* pop-filters - possible
+
+** s - sh, control pronunciation
+
+
+* recording with *pre* effect, no effects applied during recording
+
+IMPORTANT: recording with no effects
+
+NOTE: if recording with auto-tune, record with auto-tune))
+
+* record vocal on low level (-18dB), if you want loud sound, use compressor just to hear. after recording we can adjust all effects if we recorded without it
+
+
+
+=== Mastering
+
+use equalizer, cut low frequencies while not losing information (cut low, low shelf???, cut high)
