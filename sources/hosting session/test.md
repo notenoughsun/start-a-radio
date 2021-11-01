@@ -16,3 +16,10 @@ $`RSS(d) = RSS(d_0) −10η log \frac{d}{d_0} + w `$
 SE = \frac{\sigma}{\sqrt{n}}
 ```
 
+
+
+$$RSS(d) = RSS(d_0) −10η log \frac{d}{d_0} + w $$
+
+
+\\RSS(d) = RSS(d_0) −10η log \frac{d}{d_0} + w \\
+
